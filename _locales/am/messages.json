@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Play Flappy Bird for the browser. You can play directly in the popup window on the page"
+   },
+   "name": {
+      "message": "Flappy Bird for browser"
+   },
+   "shortname": {
+      "message": "Flappy Bird for browse"
+   },
+   "title": {
+      "message": "Flappy Bird for browse"
+   }
+}

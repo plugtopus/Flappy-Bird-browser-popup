@@ -1,0 +1,14 @@
+{
+    "desc": {
+        "message": "Игра Flappy Bird для браузера. Можно играть прямо во всплывающем окошке на странице"
+    },
+    "name": {
+        "message": "Flappy Bird игра в браузере"
+    },
+    "shortname": {
+        "message": "Flappy Bird игра в браузере"
+    },
+    "title": {
+        "message": "Flappy Bird игра в браузере"
+    }
+}
